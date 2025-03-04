@@ -1,0 +1,23 @@
+[
+  {
+    "customerId": "1",
+    "transactions": [
+      { "date": "2025-01-15", "amount": 120 },
+      { "date": "2025-01-28", "amount": 90 },
+      { "date": "2025-01-15", "amount": 220 },
+      { "date": "2024-02-28", "amount": 90 },
+      { "date": "2023-04-10", "amount": 80 }
+    ]
+  },
+  {
+    "customerId": "2",
+    "transactions": [
+      { "date": "2025-01-18", "amount": 200 },
+
+      { "date": "2025-02-01", "amount": 50 },
+      { "date": "2024-01-05", "amount": 150 },
+      { "date": "2024-02-28", "amount": 90 },
+      { "date": "2023-12-22", "amount": 90 }
+    ]
+  }
+]
